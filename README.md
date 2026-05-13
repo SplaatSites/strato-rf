@@ -1,6 +1,6 @@
 <h1 align="center">
-    <a href="https://github.com/strato-emu/strato" target="_blank">
-        <img height="60%" width="60%" src="https://raw.github.com/strato-emu/branding/master/banner/strato-banner-rounded.png"><br>
+    <a href="https://github.com/SplaatSites/strato-rf" target="_blank">
+        <img height="60%" width="60%" src="https://raw.github.com/SplaatSites/starto-rf/branding/strato-rf-logo.png"><br>
     </a>
     <a href="https://discord.gg/YhpdhVBmXX" target="_blank">
         <img src="https://img.shields.io/discord/1104386300750082081.svg?label=&logo=discord&logoColor=ffffff&color=5865F2&labelColor=404EED">
@@ -13,6 +13,10 @@
 <p align="center">
     <b><a href="CONTRIBUTING.md">Contributing Guide</a> • <a href="BUILDING.md">Building Guide</a></b>
 </p>
+
+<p>
+    <sub>This is a continuation of Strato, an emulator for ™ARMv8 Android™ devices See the original project <a href="https://github.com/strato-emu/strato">here</a>. Below is the original description.</sub>
+</p><br>
 
 <p align="center">
     <b>Strato</b> is an experimental emulator that runs on <b>ARMv8 Android™</b> devices and emulates the functionality of a <b>Nintendo Switch™</b> system, licensed under <a href="https://github.com/strato-emu/strato/blob/master/LICENSE.md"><b>GNU General Public License v3.0 or later</b></a>
